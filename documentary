@@ -1,0 +1,9 @@
+1. Project title
+  Fractal Tree Using Python Turtle
+2.What is the purpose of your project?
+ The purpose of this project is to demonstrate the recursive nature of fractals by creating a visually appealing tree using Python’s Turtle graphics. 
+3.How your program works? how to run your program?
+  The program initializes the turtle graphics environment and defines a recursive function tree(i), which draws branches and stops when i is less than 10.
+  The turtle moves forward, draws a small circle at the tip, then splits into two smaller branches by turning left and right before returning to its starting point.
+  To run the program, install Python and the turtle module if needed. Save the script as fractal_tree.py and run python fractal_tree.py. 
+  A Turtle window will display the fractal tree, which can be customized by modifying angles and branch lengths.
